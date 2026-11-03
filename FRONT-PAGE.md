@@ -1,12 +1,11 @@
-# MT1 LAB EXAMINATION
+**Student Name:** Abhishek Sonkar
 
-## Library Book Management Web Application
+**Roll Number:** 2500320100052
 
-**Student Name:** __________________________  
-**Roll Number:** __________________________  
-**Section:** __________________________  
-**Subject:** Full Stack Development – Node.js Lab Examination  
-**GitHub ID:** __________________________  
-**GitHub Repository Link:** __________________________  
+**Section:** 13
 
-**Technologies:** Node.js, HTTP Module, FS Module, Express.js
+**Subject:** Full Stack Development – Node.js Lab Examination
+
+**GitHub ID:** abhishek-max320
+
+**GitHub Repository Link:** https://github.com/abhishek-max320/fsd-workshop-1-practical
